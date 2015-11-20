@@ -1,7 +1,7 @@
 #REKI Безвремя. Drumtabs
-![](https://pp.vk.me/c624126/v624126388/9f6fa/TkeHYiSCY24.jpg)
+>Drum tabs for music project [REKI Безвремя](https://vk.com/rekiproject)
 
-Drum tabs for music project [REKI Безвремя](https://vk.com/rekiproject)
+![](https://pp.vk.me/c624126/v624126388/9f6fa/TkeHYiSCY24.jpg)
 
 ## Track list
 
