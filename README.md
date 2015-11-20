@@ -1,5 +1,3 @@
-# REKI Безвремя (drumtabs)
-
 ![](https://pp.vk.me/c624126/v624126388/9f6f7/lgIf9QQWcco.jpg)
 
 Drum tabs for music project [REKI Безвремя](https://vk.com/rekiproject)
