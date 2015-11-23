@@ -16,3 +16,5 @@
 08 REKI Ветер           | 135 | 165 |  :white_check_mark:
 09 REKI Безвремя        | 122 | 148 | :white_check_mark:
 10 REKI Зов             | 124 |
+
+[:notebook_with_decorative_cover: How to read drum tabs](http://www.wikihow.com/Read-Drum-Tabs)
