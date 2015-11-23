@@ -13,6 +13,6 @@
 05 REKI Синхро          | 95  |
 06 REKI Новая Жизнь     | 155 |
 07 REKI 100%            | 140 |
-08 REKI Ветер           | 135 |     | 20%
+08 REKI Ветер           | 135 | 165 |  :white_check_mark:
 09 REKI Безвремя        | 122 | 148 | :white_check_mark:
 10 REKI Зов             | 124 |
