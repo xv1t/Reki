@@ -7,13 +7,13 @@
  Track                  | BPM |Bars |Status 
 ------------------------|----:|----:|:----:|
 01 REKI Intro           |     |
-02 REKI Странник        | 120 |
+02 REKI Странник        | 120 | 117 | :white_check_mark:
 03 REKI Крылатый Цветок | 145 |
 04 REKI The Shift       | 135 |
 05 REKI Синхро          | 95  |
 06 REKI Новая Жизнь     | 155 |
 07 REKI 100%            | 140 |
-08 REKI Ветер           | 135 | 165 |  :white_check_mark:
+08 REKI Ветер           | 135 | 165 | :white_check_mark:
 09 REKI Безвремя        | 122 | 148 | :white_check_mark:
 10 REKI Зов             | 124 |
 
