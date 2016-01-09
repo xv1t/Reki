@@ -10,7 +10,7 @@
 02 REKI Странник        | 120 | 117 | :white_check_mark:
 03 REKI Крылатый Цветок | 145 | 161 | :white_check_mark:
 04 REKI The Shift       | 135 |
-05 REKI Синхро          | 95  |
+05 REKI Синхро          | 95  |  97 | :white_check_mark:
 06 REKI Новая Жизнь     | 155 |
 07 REKI 100%            | 140 |
 08 REKI Ветер           | 135 | 165 | :white_check_mark:
